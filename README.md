@@ -4,12 +4,11 @@ This project utilizes MongoDB Atlas to analyze the ⁠ sample_mflix ⁠ data
 
 The project is divided into two key sections:
 
-MongoDB Queries – Performing CRUD operations, filtering, and aggregations to extract insights from the dataset.
-MongoDB Atlas Dashboard – A visual representation of key metrics using interactive charts.
-View the Dashboard Here: Movie Analytics Dashboard
+- MongoDB Queries – Performing CRUD operations, filtering, and aggregations to extract insights from the dataset.
+- MongoDB Atlas Dashboard – A visual representation of key metrics using interactive charts.
 
 Tools & Technologies Used
-MongoDB Atlas – Database and aggregation pipeline queries.
-MongoDB Compass – Query testing and local data visualization.
-MongoDB Charts – Interactive dashboard for data insights.
-Google Colab – Execution and reporting.
+- MongoDB Atlas – Database and aggregation pipeline queries.
+- MongoDB Compass – Query testing and local data visualization.
+- MongoDB Charts – Interactive dashboard for data insights.
+- Google Colab – Execution and reporting.
